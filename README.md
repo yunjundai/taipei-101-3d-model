@@ -4,10 +4,14 @@
 
 ## 線上互動預覽
 
-- [開啟 3D 模型互動檢視器](https://yunjundai.github.io/taipei-101-3d-model/)（或直接開啟 [viewer.html](https://yunjundai.github.io/taipei-101-3d-model/viewer.html)）
+- [開啟 3D 建築與工程解說動畫（含台灣女聲旁白）](https://yunjundai.github.io/taipei-101-3d-model/)（或直接開啟 [explainer.html](https://yunjundai.github.io/taipei-101-3d-model/explainer.html)）
+- [開啟純 3D 模型互動檢視器](https://yunjundai.github.io/taipei-101-3d-model/viewer.html)
 
 ## 檔案清單
 
+- `explainer.html`：內嵌 GLB 與台灣女性神經語音旁白（`zh-TW-HsiaoChenNeural`）之 7 章節 3D 解說動畫網頁
+- `build_explainer.py`：封裝 `explainer.html` 之建置腳本
+- `generate_narration.py` / `narration/`：台灣女性神經語音合成腳本與 7 章節 MP3 旁白音檔
 - `taipei_101.glb`：glTF 2.0 二進位模型（含 7 組 PBR 材質）
 - `taipei_101.obj` / `taipei_101.mtl`：通用 3D 網格與材質定義檔
 - `taipei_101.stl`：Z 軸朝上之二進位 STL 檔（適用 CAD 與 3D 列印）

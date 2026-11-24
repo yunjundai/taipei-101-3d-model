@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ch01",
+    "file": "narration/ch01.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 19.15,
+    "size_bytes": 114912
+  },
+  {
+    "id": "ch02",
+    "file": "narration/ch02.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 17.69,
+    "size_bytes": 106128
+  },
+  {
+    "id": "ch03",
+    "file": "narration/ch03.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 17.06,
+    "size_bytes": 102384
+  },
+  {
+    "id": "ch04",
+    "file": "narration/ch04.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 18.31,
+    "size_bytes": 109872
+  },
+  {
+    "id": "ch05",
+    "file": "narration/ch05.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 16.39,
+    "size_bytes": 98352
+  },
+  {
+    "id": "ch06",
+    "file": "narration/ch06.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 21.36,
+    "size_bytes": 128160
+  },
+  {
+    "id": "ch07",
+    "file": "narration/ch07.mp3",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "duration": 19.78,
+    "size_bytes": 118656
+  }
+]
