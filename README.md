@@ -2,6 +2,10 @@
 
 參數化建構之台北 101（Taipei 101）3D 建築模型，提供多種標準 3D 格式與獨立互動式網頁檢視器。
 
+## 線上互動預覽
+
+- [開啟 3D 模型互動檢視器](https://yunjundai.github.io/taipei-101-3d-model/)（或直接開啟 [viewer.html](https://yunjundai.github.io/taipei-101-3d-model/viewer.html)）
+
 ## 檔案清單
 
 - `taipei_101.glb`：glTF 2.0 二進位模型（含 7 組 PBR 材質）
